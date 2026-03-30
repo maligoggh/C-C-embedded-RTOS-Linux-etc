@@ -75,3 +75,5 @@ void check_stack_usage() {
     Дата: 2026-03-29
     Курс: Embedded Systems - Memory (в процессе)
     Книга: Joseph Yiu, "The Definitive Guide to ARM Cortex-M3/M4", гл. 8
+## Обратные ссылки
+- [[MOC-memory]] ← ссылка на карту
