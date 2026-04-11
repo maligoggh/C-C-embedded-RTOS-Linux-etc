@@ -2,6 +2,7 @@
 
 ## C/C++
 - [[stack_vs_heap]] ← уже есть
+- 
 
 ## Rust (будет)
 - ownership_borrowing
